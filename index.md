@@ -1,3 +1,4 @@
+| [Home](https://psych-methods.github.io/index.md) | [Statistics with R](https://psych-methods.github.io/R_reading_material.md) | [Thesis](https://psych-methods.github.io/thesis.md) | [Open Science - Meth.](https://psych-methods.github.io/OS_prereg_repl.md) | [About](https://psych-methods.github.io/about.md)
 
 # Dear friends of *Methodology & Statistics*...
 
@@ -6,6 +7,8 @@
 <p align = "center">
 <img align="center" src="https://raw.githubusercontent.com/FloB2/flob2.github.com/main/graphics/graphic_brain.jpg" width="300" />
 </p>
+
+---
 
 The current version of this webpage provides you with information about the following topics:
 
