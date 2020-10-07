@@ -17,8 +17,8 @@ some general words as intro for the reading material
   
 ## Introduction into especially Bayesian statistics
 
-  + Gelman, A., Carlin, J.B., Stern, S., Dunson, D.B., Vehtari, A., and Rubin, D.B. (2013). *Bayesian Data Analysis*. Chapman; Hall/CRC.
-  + Kruschke, J. (2015). *Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan*. Academic Press.
+  + Gelman, A., Carlin, J.B., Stern, S., Dunson, D.B., Vehtari, A., and Rubin, D.B. (2013). *Bayesian Data Analysis*. Chapman; Hall/CRC. ([online version](http://www.stat.columbia.edu/~gelman/book/) for non-commercial use)
+  + Kruschke, J. (2015). *Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan*. Academic Press. [ISBN:9780124059160](https://www.elsevier.com/books/doing-bayesian-data-analysis/kruschke/978-0-12-405888-0)
   + McElreath, R. (2015). *Statistical Rethinking: A Bayesian Course with Examples in R and Stan*. Chapman; Hall/CRC.
     + [Online version](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/) by Solomon Kurz 
-  + Lee, M. D., & Wagenmakers, E. J. (2014). *Bayesian cognitive modeling: A practical course*. Cambridge university press.
+  + Lee, M. D., & Wagenmakers, E. J. (2014). *Bayesian cognitive modeling: A practical course*. Cambridge university press. ([related webpage](https://bayesmodels.com/))
