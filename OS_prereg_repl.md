@@ -5,7 +5,7 @@
 Some introductory words about "Open Science" and why it is important. Give 1-2 hints for good reading material and link to [OSF.io](https://osf.io/)
 
 <p align = "center">
-<img align="center" src="https://raw.githubusercontent.com/FloB2/flob2.github.com/main/graphics/graphic_open_science.png" width="400" />
+<img align="center" src="https://raw.githubusercontent.com/psych-methods/psych-methods.github.io/master/graphics/graphic_open_science.png" width="400" />
 </p>
 
 ---
