@@ -8,8 +8,8 @@
 
 ---
 
-This webpage is maintained by the working unit "methodology" at the university of Marburg.
-For more information about this working unit please visit the following [official website](https://www.uni-marburg.de/de/fb04/team-heck).
+This webpage is maintained by the working unit "methodology" at the Philipps-University of Marburg.
+For further information about this working unit please visit the following [official website](https://www.uni-marburg.de/de/fb04/team-heck).
 
 If you have any questions or comments you may contact ...
 
