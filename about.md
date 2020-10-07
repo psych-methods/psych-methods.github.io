@@ -2,6 +2,9 @@
 
 # Who we are?
 
+<p align = "center">
+<img align="center" src="https://raw.githubusercontent.com/psych-methods/psych-methods.github.io/master/graphics/about.png" width="400" />
+</p>
 ---
 
 This webpage is maintained by the working unit "methodology" at the university of Marburg.
