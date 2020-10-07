@@ -1,6 +1,10 @@
 # Reading material for statistics (in general)
 
+some general words as intro for the reading material
 
+<p align = "center">
+<img align="center" src="https://raw.githubusercontent.com/psych-methods/psych-methods.github.io/master/graphics/reading_material.png" width="400" />
+</p>
 
 ---
 
