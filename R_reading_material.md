@@ -21,7 +21,7 @@ Some general words about *R*. Why it is useful and interesting to learn...
     + [Visualizing data](https://r-graphics.org/)
     + author: Winston Chang, RStudio
   + [R for Data Science: import, tidy, transform, visualize, and model data](https://r4ds.had.co.nz/)
-    + author: Hadley Wickham & Garrett Grolemund
+    + authors: Hadley Wickham & Garrett Grolemund
 
 ## Online learning platforms
 
@@ -29,5 +29,5 @@ Some general words about *R*. Why it is useful and interesting to learn...
       + authors: Department of psychological methodology, Humboldt-University of Berlin
   + [R Programming](https://www.coursera.org/learn/r-programming): free online course provided on the platform *Coursera*
       + authors: Roger Peng, Jeff Leek & Brian Caffo, Johns Hopkins University
-  + [Lectures](https://www.uni-marburg.de/de/fb02/professuren/qm/statistik/lehre/bachelor/einfuehrung-in-r-mit-anwendungen-aus-der-statistik-und-mathematik) "Einführung in R mit Anwendungen aus Mathematik und Statistik" (am Fachbereich 02: Wirtschaftswissenschaften)
+  + [Lectures at the university of Marburg](https://www.uni-marburg.de/de/fb02/professuren/qm/statistik/lehre/bachelor/einfuehrung-in-r-mit-anwendungen-aus-der-statistik-und-mathematik) "Einführung in R mit Anwendungen aus Mathematik und Statistik" (am Fachbereich 02: Wirtschaftswissenschaften)
       + Statistics, FB 02: School of Business and Economics, Philipps-University of Marburg
