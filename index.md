@@ -1,4 +1,4 @@
-| [Home](https://psych-methods.github.io/index.md) | [Statistics with R](https://psych-methods.github.io/R_reading_material.md) | [Thesis](https://psych-methods.github.io/thesis.md) | [Open Science - Meth.](https://psych-methods.github.io/OS_prereg_repl.md) | [About](https://psych-methods.github.io/about.md)
+| [Home](https://psych-methods.github.io/index) | [Statistics with R](https://psych-methods.github.io/R_reading_material) | [Thesis](https://psych-methods.github.io/thesis) | [Open Science - Meth.](https://psych-methods.github.io/OS_prereg_repl) | [About](https://psych-methods.github.io/about)
 
 # Dear friends of *Methodology & Statistics*...
 
