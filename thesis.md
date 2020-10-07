@@ -1,3 +1,5 @@
+| [Home](https://psych-methods.github.io/index) | [Statistics with R](https://psych-methods.github.io/R_reading_material) | [Thesis](https://psych-methods.github.io/thesis) | [Open Science - Meth.](https://psych-methods.github.io/OS_prereg_repl) | [About](https://psych-methods.github.io/about)
+
 # Writing your thesis in *Methodology & Statistics*
 
 some general remarks about writing your thesis in this working unit
@@ -5,6 +7,8 @@ some general remarks about writing your thesis in this working unit
 <p align = "center">
 <img align="center" src="https://raw.githubusercontent.com/FloB2/flob2.github.com/main/graphics/graphic_thesis.png" width="400" />
 </p>
+
+---
 
 # Guidelines for writing an exposé
 
