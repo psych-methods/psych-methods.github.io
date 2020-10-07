@@ -1,3 +1,4 @@
+| [Home](https://psych-methods.github.io/index) | [Statistics with R](https://psych-methods.github.io/R_reading_material) | [Thesis](https://psych-methods.github.io/thesis) | [Open Science - Meth.](https://psych-methods.github.io/OS_prereg_repl) | [About](https://psych-methods.github.io/about)
 
 # Statistics with *R*
 
@@ -10,6 +11,8 @@ link to website from the institute: [Introduction into R](https://www.uni-marbur
 <p align = "center">
 <img align="center" src="https://raw.githubusercontent.com/FloB2/flob2.github.com/main/graphics/graphic_statistics_R.png" width="300" />
 </p>
+
+---
 
 ## References that might help getting started with *R*
 
