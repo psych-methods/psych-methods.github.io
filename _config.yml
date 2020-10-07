@@ -1,0 +1,16 @@
+theme: jekyll-theme-minimal
+
+title: Methodology & Statistics
+
+navigation:
+  - title:     Intro
+    url:      index
+  - title:    "Statistics with R"
+    url:      R_reading_material
+  - title:    Thesis
+    url:      thesis
+  - title:    "Open Science: Preregistration & Replication"
+    url:      OS_prereg_repl
+  - title:    About
+    url:      about
+
