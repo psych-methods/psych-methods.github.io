@@ -1,9 +1,11 @@
+| [Home](https://psych-methods.github.io/index) | [Statistics with R](https://psych-methods.github.io/R_reading_material) | [Reading material](https://psych-methods.github.io/reading_material) | [Thesis](https://psych-methods.github.io/thesis) | [Open Science - Meth.](https://psych-methods.github.io/OS_prereg_repl) | [About](https://psych-methods.github.io/about)
+
 # Reading material for statistics (in general)
 
 some general words as intro for the reading material
 
 <p align = "center">
-<img align="center" src="https://raw.githubusercontent.com/psych-methods/psych-methods.github.io/master/graphics/reading_material.png" width="400" />
+<img align="center" src="https://raw.githubusercontent.com/psych-methods/psych-methods.github.io/master/graphics/graphic_literature.png" width="400" />
 </p>
 
 ---
