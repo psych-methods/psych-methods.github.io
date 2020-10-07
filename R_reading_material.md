@@ -2,11 +2,7 @@
 
 # Statistics with *R*
 
-I don't know if we need this site as we have already some information on the institute's site
-
 Some general words about *R*. Why it is useful and interesting to learn...
-
-link to website from the institute: [Introduction into R](https://www.uni-marburg.de/de/fb04/team-heck/einstieg-in-r)
 
 <p align = "center">
 <img align="center" src="https://raw.githubusercontent.com/psych-methods/psych-methods.github.io/master/graphics/graphic_statistics_R.png" width="400" />
