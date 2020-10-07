@@ -17,8 +17,8 @@ Some general words about *R*. Why it is useful and interesting to learn...
   + [R for Psychos](https://r-intro.tadaa-data.de/book/): free online textbook for an informal introduction into R 
     + from and for psychology students (authors: Lukas Burk & Tobias Anton, university of Bremen)
   + Cookbook for R: free online textbook that provides support and solutions for specific queries concerning R.  
-    + Handling data and statistical analysis: http://www.cookbook-r.com/
-    + Visualizing data: https://r-graphics.org/ 
+    + [Handling data and statistical analysis](http://www.cookbook-r.com/)
+    + [Visualizing data](https://r-graphics.org/)
     + author: Winston Chang, RStudio
   + [R for Data Science: import, tidy, transform, visualize, and model data](https://r4ds.had.co.nz/)
     + author: Hadley Wickham & Garrett Grolemund
