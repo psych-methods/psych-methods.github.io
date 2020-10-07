@@ -5,7 +5,7 @@
 ...this webpage aims to inform you about some organizational issues and to provide information material that might support your during your studies.
 
 <p align = "center">
-<img align="center" src="https://raw.githubusercontent.com/psych-methods/psych-methods.github.io/main/graphics/graphic_brain.png" width="400" />
+<img align="center" src="https://raw.githubusercontent.com/psych-methods/psych-methods.github.io/master/graphics/graphic_brain.png" width="400" />
 </p>
 
 ---
