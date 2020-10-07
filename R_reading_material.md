@@ -31,17 +31,3 @@ Some general words about *R*. Why it is useful and interesting to learn...
       + authors: Roger Peng, Jeff Leek & Brian Caffo, Johns Hopkins University
   + [Lectures](https://www.uni-marburg.de/de/fb02/professuren/qm/statistik/lehre/bachelor/einfuehrung-in-r-mit-anwendungen-aus-der-statistik-und-mathematik) "Einführung in R mit Anwendungen aus Mathematik und Statistik" (am Fachbereich 02: Wirtschaftswissenschaften)
       + Statistics, FB 02: School of Business and Economics, Philipps-University of Marburg
-
-
-## General references for intro in statistics
-
-  + Jaynes, Edwin T. (2003). *Probability Theory: The Logic of Science*. Cambridge university press. ISBN: 978-0521592710
-  + ...
-  
-## General references for intro into especially Bayesian statistics
-
-  + Gelman, A., Carlin, J.B., Stern, S., Dunson, D.B., Vehtari, A., and Rubin, D.B. (2013). *Bayesian Data Analysis*. Chapman; Hall/CRC.
-  + Kruschke, J. (2015). *Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan*. Academic Press.
-  + McElreath, R. (2015). *Statistical Rethinking: A Bayesian Course with Examples in R and Stan*. Chapman; Hall/CRC.
-    + [Online version](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/) by Solomon Kurz 
-  + Lee, M. D., & Wagenmakers, E. J. (2014). *Bayesian cognitive modeling: A practical course*. Cambridge university press.
