@@ -1,3 +1,5 @@
+| [Home](https://psych-methods.github.io/index) | [Statistics with R](https://psych-methods.github.io/R_reading_material) | [Thesis](https://psych-methods.github.io/thesis) | [Open Science - Meth.](https://psych-methods.github.io/OS_prereg_repl) | [About](https://psych-methods.github.io/about)
+
 # Open Science: Preregistration & Replication
 
 Some introductory words about "Open Science" and why it is important. Give 1-2 hints for good reading material and link to [OSF.io](https://osf.io/)
@@ -5,6 +7,8 @@ Some introductory words about "Open Science" and why it is important. Give 1-2 h
 <p align = "center">
 <img align="center" src="https://raw.githubusercontent.com/FloB2/flob2.github.com/main/graphics/graphic_open_science.png" width="400" />
 </p>
+
+---
 
 ## General workflow 
 
