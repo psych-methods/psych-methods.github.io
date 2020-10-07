@@ -4,7 +4,7 @@ title: Methodology & Statistics
 
 navigation:
   - title:    Intro
-    url:      intro
+    url:      index
   - title:    "Statistics with R"
     url:      R_reading_material
   - title:    Thesis
