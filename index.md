@@ -5,7 +5,7 @@
 ...this webpage aims to inform you about some organizational issues and to provide information material that might support your during your studies.
 
 <p align = "center">
-<img align="center" src="https://raw.githubusercontent.com/FloB2/flob2.github.com/main/graphics/graphic_brain.jpg" width="300" />
+<img align="center" src="https://raw.githubusercontent.com/FloB2/flob2.github.com/main/graphics/graphic_brain.png" width="400" />
 </p>
 
 ---
