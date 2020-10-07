@@ -12,7 +12,7 @@ some general words as intro for the reading material
 
 ## Introduction into statistics
 
-  + Jaynes, Edwin T. (2003). *Probability Theory: The Logic of Science*. Cambridge university press. ISBN: 978-0521592710
+  + Jaynes, Edwin T. (2003). *Probability Theory: The Logic of Science*. Cambridge university press. doi: [https://doi.org/10.1017/CBO9780511790423](https://doi.org/10.1017/CBO9780511790423)
   + Kline, R. B. (2013). *Beyond significance testing: Statistics reform in the behavioral sciences*. American Psychological Association. doi: [https://doi.org/10.1037/14136-000](https://doi.org/10.1037/14136-000)
   
 ## Introduction into especially Bayesian statistics
